@@ -22,6 +22,6 @@ The data was imported from "ab_data.csv".
 Maintain the current webpage (control) because switching to a new webpage (treatment) won't lead a significant increase in conversion rates.
 
 ### Visualizations
-![Conversion Rates by Group](![Conversion_Graph](https://github.com/ReginaldErzoah/R-Projects/assets/147485458/f3b7e188-c49b-4900-ba47-c3d9e92d82ed)
+![Conversion_Graph](https://github.com/ReginaldErzoah/R-Projects/assets/147485458/f3b7e188-c49b-4900-ba47-c3d9e92d82ed)
 
 
