@@ -1,6 +1,6 @@
 # R-Projects
 This is a collection of R projects
-## 1. E-Commerce Webpage AB Testing 
+## 1. E-Commerce Webpage A/B Testing 
 This project compares the conversion rates of two groups (control and treatment) using A/B testing in R.
 The data was imported from "ab_data.csv".
 
