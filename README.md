@@ -18,6 +18,9 @@ The data was imported from "ab_data.csv".
 - The X-squared value (1.5193) was not extremely high or low therefore there was no significant difference in both groups.
 - The p-value (0.2177) which is >0.05 indicates that there's no significance in the conversion rates of the treatment and control groups.
 
+### Recommendation
+Maintain the current webpage (control) because switching to a new webpage (treatment) won't lead a significant increase in conversion rates.
+
 ### Visualizations
 ![Conversion Rates by Group](![Conversion_Graph](https://github.com/ReginaldErzoah/R-Projects/assets/147485458/f3b7e188-c49b-4900-ba47-c3d9e92d82ed)
 
