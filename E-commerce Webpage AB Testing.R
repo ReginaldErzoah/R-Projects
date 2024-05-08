@@ -5,7 +5,7 @@ library(ggplot2)
 
 #Import CSV data file into R
 {r}
-data <- read.csv("C:/Users/THE SKRYBLA/Desktop/Media/PROJECTS/R Projects/ab_data.csv")
+data <- read.csv("C:/PROJECTS/R Projects/ab_data.csv")
 
 #Explore data before A/B Testing
 {r}
