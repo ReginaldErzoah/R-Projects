@@ -1,6 +1,12 @@
 # R-Projects
 This is a collection of R projects
-## 1. E-Commerce Webpage A/B Testing 
+
+## 1. Weather Project for Beginners.
+This is a simple R project to calculate and plot average yearly temperature using a dataset downloaded from kaggle.
+Link to dataset: https://www.kaggle.com/datasets/muthuj7/weather-dataset/data
+The R code used (Beginner Weather Project) is also located in this repository.
+
+## 2. E-Commerce Webpage A/B Testing 
 This project compares the conversion rates of two groups (control and treatment) using A/B testing in R.
 The data was imported from "ab_data.csv".
 
